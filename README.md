@@ -12,7 +12,7 @@ Requisitos para rodar o projeto:
 
 Ter instalado o plugin 'azure functions' no vscode
 
-Rodar o projeto depois de baixado
+### Rodar o projeto depois de baixado
 
 Acessar pasta sexy-api
 
