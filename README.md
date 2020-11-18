@@ -8,7 +8,8 @@ Tecnologias:
  - Node.js
  - Azure Functions
 
-Requisitos para rodar o projeto
+Requisitos para rodar o projeto:
+
 Ter instalado o plugin 'azure functions' no vscode
 
 Rodar o projeto depois de baixado
